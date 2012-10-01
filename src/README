@@ -1,0 +1,24 @@
+The Learning Java project is intended to be a collection of Java code snippets useful to
+beginning Java programmers. The code snippets do not make up a specific software application
+either individually or collectively. Instead, they are intended to be complete Java methods 
+that can do useful utility functions or which show beginning Java programmers how to 
+perform some task. For example, the first code snippet being contributed is a set of
+two classes which show how to extract and publish attributes from a JAR file's manifest file.
+
+The files being pushed to the repository were created and pushed by the NetBeans version 
+7.2 IDE. If you clone the repository, you may well get the clone in the form of a 
+NetBeans project.
+
+List of code snippets:
+
+
+
+1. Bobapp2.java -- main class that calls packageVersion.java
+2. packageVersion.Java -- searches for and prints manifest file attributes
+   to standard output. Specifically, it searches for and prints build date
+   and time information, a bundle version number string, and the developer's
+   name and email address.
+3. build.xml -- Ant task which defines attributes supporting the metadata 
+   being extracted above.
+
+This repository was started by Bob Cochran. Bob's email address is r2cochran2@gmail.com.
