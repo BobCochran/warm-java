@@ -33,6 +33,7 @@
             <attribute name="Implementation-Version" value="${version.num}" />
             <attribute name="Implementation-URL" value="http://www.greenbeltcomputer.biz" />
             <attribute name="Developer-Name" value="Bob Cochran" />
+            <attribute name="Developer-Email" value="r2cochran2@gmail.com" />
     </manifest>
     </target>
 
