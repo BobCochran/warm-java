@@ -1,5 +1,10 @@
 The Learning Java project is intended to be a collection of Java code snippets useful to
-beginning Java programmers. The code snippets do not make up a specific software application
+beginning Java programmers. The code snippets you see here are taken from other websites. 
+The specific snippets in this collection came from stackoverflow.com and were contributed
+by others. My interest in posting these snippets is to make them available as 
+working source code that can in turn be freely used. 
+
+The code snippets shown here do not make up a specific software application
 either individually or collectively. Instead, they are intended to be complete Java methods 
 that can do useful utility functions or which show beginning Java programmers how to 
 perform some task. For example, the first code snippet being contributed is a set of
@@ -14,7 +19,7 @@ List of code snippets:
 
 
 1. Bobapp2.java -- main class that calls packageVersion.java
-2. packageVersion.Java -- searches for and prints manifest file attributes
+2. PackageVersion.Java -- searches for and prints manifest file attributes
    to standard output. Specifically, it searches for and prints build date
    and time information, a bundle version number string, and the developer's
    name and email address.
@@ -22,3 +27,6 @@ List of code snippets:
    being extracted above.
 
 This repository was started by Bob Cochran. Bob's email address is r2cochran2@gmail.com.
+Some snippets are from other websites, contributed by various authors. PackageVersion.java
+and the build.xml file were taken from stackoverflow.com.
+

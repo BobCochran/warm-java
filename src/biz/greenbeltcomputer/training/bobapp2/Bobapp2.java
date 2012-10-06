@@ -17,7 +17,7 @@ public class Bobapp2 {
      */
     public static void main(String[] args) {
         
-        packageVersion version = new packageVersion();
+        PackageVersion version = new PackageVersion();
         version.printVersion();
         System.exit(0);
     }
